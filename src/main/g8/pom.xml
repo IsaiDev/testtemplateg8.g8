@@ -8,10 +8,10 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ever.temp</groupId>
-	<artifactId>myapp</artifactId>
+	<groupId>$package$</groupId>
+	<artifactId>$name$</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myapp</name>
+	<name>$name$</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
