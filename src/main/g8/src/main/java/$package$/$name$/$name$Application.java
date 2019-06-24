@@ -1,13 +1,13 @@
-package com.ever.temp.myapp;
+package com.ever.temp.$name$;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyappApplication {
+public class $name$Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyappApplication.class, args);
+		SpringApplication.run($name$Application.class, args);
 	}
 
 }
